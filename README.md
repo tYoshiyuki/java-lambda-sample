@@ -4,6 +4,7 @@ Lambda (Java) のサンプル
 ## Feature
 - Java
 - Lambda
+- Maven
 
 ## Settings
 1. InteliJ IDEA をインストールする。
@@ -12,6 +13,7 @@ Lambda (Java) のサンプル
 3. Docker for Windows をインストールする。
 	- Hyper-V の有効化が必要です。
 4. AWS SAM CLI をインストールする。
+	- Python 3.x が必要です。
 5. AWS Console より アクセスキー・シークレットキー を発行する。
 	- {ユーザフォルダ}\.aws\credentials に保存する。
 ```
