@@ -15,7 +15,7 @@ Lambda (Java) で Kinesis からのイベント処理を行うサンプル
 4. AWS SAM CLI をインストールする。
 	- Python 3.x が必要です。
 5. AWS Console より アクセスキー・シークレットキー を発行する。
-	- {ユーザフォルダ}\.aws\credentials に保存する。
+	- {ユーザフォルダ}/.aws/credentials に保存する。
 ```
 [default]
 aws_access_key_id=xxx
